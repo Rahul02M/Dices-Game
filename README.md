@@ -5,10 +5,10 @@ React Dice Game is a simple dice rolling application built using ReactJS and sty
 
 !!Rules 👍
 <br>
--Select any number
--Click on Dice image
--After click on dice if selected number is equal to dice number you will get same point as dice 
--If you get wrong guess than 2 point will be dedcuted
+- Select any number
+- Click on Dice image
+- After click on dice if selected number is equal to dice number you will get same point as dice 
+- If you get wrong guess than 2 point will be dedcuted
 
 
 ![SS DICE GAME ](https://github.com/Rahul02M/Dices-Game/assets/133855195/8cd6dd9d-2def-4832-a698-db7a66792489)
